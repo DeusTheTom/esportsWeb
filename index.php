@@ -1,0 +1,51 @@
+<html>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel='stylesheet' type='text/css' href='css/style.php' />
+
+  <title>Home</title>
+
+  <body>
+
+    <div class="navbar">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Tournaments</a></li>
+        <li><a href="#">Practice</a></li>
+        <li><a href="#">My team</a></li>
+        <li><a href="#"><img alt="Linkedin" src="images/profile.png" width="40" height="40"></a></li>
+      </ul>
+    </div>
+    <div class="content">
+      <div class="start">
+        <img src="images/logonow.jpg" alt="BattleUp" width="160" height="120">
+        <a href="#"><img src="images/playButton.png" alt="Start" width="40" height="40"></a>
+      </div>
+
+    </div>
+    <footer class="footer">
+      <div class="about">
+        <h1>About</h1>
+        <p>
+          Crust Play is an all new automated Esports platform for Players and Organizers both. Our aim is to provide a sleek and simple platform for gamers and also to provide the easiest automated management platform ever made.
+        </p>
+      </div>
+      <div class="contacts">
+        <ul>
+          <li><a href="#">Contact us</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms Of Service</a></li>
+        </ul>
+      </div>
+
+      <div class="social-media">
+        <a href="#"><img alt="Facebook" src="images/facebook.png" width="30" height="30"></a>
+        <a href="#"><img alt="Instagram" src="images/instagram.png" width="30" height="30"></a>
+        <a href="#"><img alt="Twitter" src="images/twitter.png" width="30" height="30"></a>
+        <a href="#"><img alt="Linkedin" src="images/linkedin.png" width="50" height="50"></a>
+      </div>
+
+    </footer>
+
+  </body>
+</html>
